@@ -1,0 +1,21 @@
+{
+  "name": "react-native-essence",
+  "version": "0.0.5",
+  "description": "React Native Essence Components",
+  "main": "Components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "essence"
+  ],
+  "dependencies": {
+    "react-native": "^0.4"
+  },
+  "author": "Hetmann W. Iohan <contact@blogtools.ro> (http://blogtools.ro)",
+  "license": "ISC"
+}
